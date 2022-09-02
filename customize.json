@@ -1,0 +1,23 @@
+{
+  "greeting": "야",
+  "name": "Charizard",
+  "greetingText": "당신이 이 선물에 대해 어떻게 느낄지 모르겠어요.",
+  "wishText": "우리가 서로 안 지 3년이 되었다. 우리는 싸우는 순간, 웃는 순간, 교훈하는 순간이 많았다.나는 너와 매우 가까워졌다. 넌 내 누나 같아. 나는 네 앞에서 내 진짜 모습을 보여줄 수 있어.나는 핸드폰을 잃어버려서 우리의 모든 채팅을 잘 잃어버렸다. 하지만 내 머릿속엔 깊은 추억이 있어.한국에 가는 것을 생각할 때, 내 인생에서 한 번쯤은 너를 만나는 것이 가장 신나는 일이다. 당신은 내 삶의 큰 부분입니다. 그러니 죽지 마. 생일 축하해!.",
+  "imagePath": "img/babo_photo.jpg",
+  "text1": "It's your birthday!!! :D 난 그냥 메세지를 보내고 싶어. 그냥 이런 문장!",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "전송",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "난 깨달았어, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "생일축하한다!",
+  "outroText": "Okay, tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
